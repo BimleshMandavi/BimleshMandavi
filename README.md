@@ -33,6 +33,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhEy6aONhj_CwPo2BwCHnPyTs3zJqixND6H2FLZFkCFpQe4YJc6SfGTbpUlc9oz6wNlo&usqp=CAU" height="40" alt="docker logo"  />
    <img src="https://i.pinimg.com/originals/66/ec/d4/66ecd45c7b6a7a76cd3c2c1e16b14ea0.png" height="40" alt="docker logo"  />
     <img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="40" alt="docker logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" height="40" alt="docker logo"  />
 </div>
 
 ###
