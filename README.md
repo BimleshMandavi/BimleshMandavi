@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYRkU_4EqPItphgo68uqxP2KVm7MNYyYRfxuNxKQHlA&s" height="40" alt="Node js logo"  />
+  <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" height="40" alt="Node js logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374144/typescript.svg" height="40" alt="firebase logo"  />
   <img width="12" />
