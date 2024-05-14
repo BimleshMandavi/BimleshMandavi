@@ -16,7 +16,7 @@
  
   <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="Express logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq8qFJxutjPAqB9kYjhY7GsHs5TZvs1F9uwZSv7jkb0w&s" height="40" alt="React logo"  />
+  <img src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png" height="40" alt="React logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYRkU_4EqPItphgo68uqxP2KVm7MNYyYRfxuNxKQHlA&s" height="40" alt="Node js logo"  />
   <img width="12" />
