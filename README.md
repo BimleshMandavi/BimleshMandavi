@@ -43,9 +43,9 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYRkU_4EqPItphgo68uqxP2KVm7MNYyYRfxuNxKQHlA&s" height="40" alt="Node js logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://www.svgrepo.com/show/374144/typescript.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-25-226002.png?f=webp" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
