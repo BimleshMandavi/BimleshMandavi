@@ -14,7 +14,7 @@
 <div align="left">
   <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="40" alt="MongoDB logo"  />
  
-  <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" height="40" alt="Express logo"  />
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="Express logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq8qFJxutjPAqB9kYjhY7GsHs5TZvs1F9uwZSv7jkb0w&s" height="40" alt="React logo"  />
   <img width="12" />
