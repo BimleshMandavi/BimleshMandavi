@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Bimlesh from ....<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning MERN Stack Development<br></p>
 
 ###
 
