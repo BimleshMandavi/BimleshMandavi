@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm Bimlesh from ....<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning MERN Stack Development<br></p>
+<p align="left">I'm Bimlesh from ....<br><br>- 🔭 I’m working as Software Engineer & Founder at Tech Spark<br>- 📚 I'm currently learning MERN Stack Development<br></p>
 
 ###
 
